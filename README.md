@@ -12,11 +12,19 @@ This is a repository for the sign language translator using YOLO.
 [https://ohjinjin.github.io/machinelearning/darkflow-3/](https://ohjinjin.github.io/machinelearning/darkflow-3/)
 <br/>
 
-[https://ohjinjin.github.io/machinelearning/darkflow-3/](https://ohjinjin.github.io/machinelearning/darkflow-4/)
+[https://ohjinjin.github.io/machinelearning/darkflow-4/](https://ohjinjin.github.io/machinelearning/darkflow-4/)
 <br/>
 
-[https://ohjinjin.github.io/machinelearning/darkflow-3/](https://ohjinjin.github.io/machinelearning/darkflow-3/)
+[https://ohjinjin.github.io/machinelearning/darkflow-5/](https://ohjinjin.github.io/machinelearning/darkflow-5/)
 <br/>
 
 [https://ohjinjin.github.io/machinelearning/augmentation/](https://ohjinjin.github.io/machinelearning/augmentation/)
+<br/>
+
+Object Detection
+---
+[https://ohjinjin.github.io/machinelearning/yolo/](https://ohjinjin.github.io/machinelearning/yolo/)
+<br/>
+
+[https://ohjinjin.github.io/machinelearning/CNN/](https://ohjinjin.github.io/machinelearning/CNN/)
 <br/>
